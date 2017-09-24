@@ -4,7 +4,7 @@ platforms: dotnet
 author: saveenr
 ---
 
-# USQL/Cognitive Imaging Hello World
+# USQL/Cognitive Imaging Emotion Detection Hello World
 
 ## Load the assemblies
 
